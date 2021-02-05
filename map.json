@@ -121,7 +121,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Service"
                 }],
          "type":"tilelayer",
          "visible":true,
