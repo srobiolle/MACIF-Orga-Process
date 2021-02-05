@@ -5,3 +5,8 @@ Faire les modifs
 Uploader la carte dans GitHub
 Tester avec https://play.workadventu.re/_/global/srobiolle.github.io/MACIF-Orga-Process/TDM.json
 
+Collision : propriété Collides=TRUE
+Test MAP : vider le cache et relancer
+
+AIDE WORK_ADVENTURE
+https://workadventu.re/map-building
